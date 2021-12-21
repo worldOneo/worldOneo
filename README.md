@@ -1,6 +1,6 @@
 # Hi there 👋, I'm WorldOneo
 Spoken like world-one-o as in 1 and 0 or world-o-neo as _neo_ from the matrix 😎   
-☕ I run on Coffe   
+☕ I run on Coffee   
 ```js
 const worldOneo = {
   addictions: [ Coffe, Development ],
