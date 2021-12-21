@@ -3,7 +3,7 @@ Spoken like world-one-o as in 1 and 0 or world-o-neo as _neo_ from the matrix ðŸ
 â˜• I run on Coffe   
 ```js
 const worldOneo = {
-  addictions: [ Coffe, Development ],
+  addictions: [ Coffee, Development ],
   learning: Rust,
   todo: {
     Smile: Days.AllDay,
