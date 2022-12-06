@@ -4,7 +4,7 @@ Spoken like world-one-o as in 1 and 0 or world-o-neo as _neo_ from the matrix ðŸ
 ```js
 const worldOneo = {
   addictions: [ Coffee, Development ],
-  learning: Rust,
+  learning: Haskell,
   todo: {
     Smile: Days.AllDay,
     Learn: Start.NeverStop,
